@@ -1,0 +1,7 @@
+﻿scipy==1.9.1
+scikit-learn==1.1.0
+numpy
+pandas
+streamlit
+joblib
+pycaret
