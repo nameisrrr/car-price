@@ -1,9 +1,8 @@
 ﻿scipy==1.9.1
-scikit-learn==0.22
-#scikit-learn==1.1.0
+scikit-learn
 numpy
 pandas
 streamlit
 joblib
-pycaret==1.0.0
-#pycaret-ts-alpha
+pycaret
+pycaret-ts-alpha
