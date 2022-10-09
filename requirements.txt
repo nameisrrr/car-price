@@ -3,6 +3,6 @@ scikit-learn==1.1.0
 numpy
 pandas
 streamlit
-joblib
+joblib==1.0.0
 pycaret
 pycaret-ts-alpha
