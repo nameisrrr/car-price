@@ -6,3 +6,4 @@ streamlit
 joblib
 pycaret
 pycaret-ts-alpha
+statsmodels==0.11.0
