@@ -5,4 +5,4 @@ pandas
 streamlit
 joblib
 pycaret==1.0.0
-pycaret-ts-alpha
+#pycaret-ts-alpha
