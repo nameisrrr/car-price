@@ -1,0 +1,4 @@
+,car_name,brand,model,min_cost_price,max_cost_price,vehicle_age,km_driven,seller_type,fuel_type,transmission_type,mileage,engine,max_power,seats
+0,Maruti Alto,Maruti,Alto,357003.861,465401.5444,9,120000,Individual,Petrol,Manual,19.7,796,46.3,5
+1,Hyundai Grand,Hyundai,Grand,711000,748000,5,20000,Individual,Petrol,Manual,18.9,1197,82,5
+37,Honda Amaze,Honda,Amaze,704000,990000,5,39993,Dealer,Petrol,Manual,18.6,1199,88.76,5
